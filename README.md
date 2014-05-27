@@ -16,5 +16,5 @@ for example:
 
 
 <p align="center">
-  <img src="https://github.com/hcq0618/Android-SGTextView/blob/master/20140527163252.jpg"/>
+  <img src="http://github.com/hcq0618/Android-SGTextView/blob/master/20140527163252.jpg"/>
 </p>
