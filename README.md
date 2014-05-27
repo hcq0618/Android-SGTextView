@@ -13,8 +13,3 @@ for example:
 		tv.setShadowLayer(2, 0, 2, "#000000");
 
 
-
-
-<p align="center">
-  <img src="http://github.com/hcq0618/Android-SGTextView/blob/master/20140527163252.jpg"/>
-</p>
