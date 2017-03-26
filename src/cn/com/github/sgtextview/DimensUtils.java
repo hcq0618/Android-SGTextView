@@ -1,4 +1,4 @@
-package cn.seacat.sgtextview;
+package com.github.sgtextview;
 
 import android.content.Context;
 

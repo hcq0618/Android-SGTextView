@@ -1,4 +1,4 @@
-package cn.seacat.sgtextview.demo;
+package com.github.sgtextview.demo;
 
 import android.app.Activity;
 import android.os.Bundle;
