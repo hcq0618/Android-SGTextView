@@ -5,13 +5,14 @@ Android-SGTextView
 
 for example:
 
+```java
     SGTextView tv = (SGTextView) findViewById(R.id.textview);
 		tv.setTextSize(100);
 		tv.setText("Test");
 		
 		tv.setStyle("#711304", "#ffe775", "#f1a212", 3, 15);
 		tv.setShadowLayer(2, 0, 2, "#000000");
-
+```
 
 ## License
 
